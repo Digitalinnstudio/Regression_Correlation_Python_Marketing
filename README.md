@@ -18,15 +18,3 @@ Followed a structured analytical approach to move from raw marketing data to act
 4.  **ROI Calculation:** The mathematical coefficient from the regression model was converted into a practical ROI figure, representing the predicted dollar return for every \$1 invested.
 
 ***
-
-## Key Outcomes & Recommendations
-
-The analysis proved that a single marketing strategy is inefficient and provided distinct optimal strategies for each client segment:
-
-| Client Type | Highest ROI Tactic | Predicted Return (Per $1 Invested) | Strategic Recommendation |
-| :--- | :--- | :--- | :--- |
-| **Large Facility** | **Sales Contact 1** | **~$11.90** | **Focus investment** on high-touch, direct sales visits. |
-| **Medium Facility** | **Campaign Flyer** | **~$3.00** | Use **Flyers** as a cornerstone tactic; efficient and effective for this segment. |
-| **Small Facility** | **Sales Contact 2** | **~$11.40** | **Immediately eliminate Phone campaigns** (found to have negative ROI) and re-allocate funds to direct sales efforts. |
-
-***
